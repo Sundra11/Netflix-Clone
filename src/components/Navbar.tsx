@@ -16,7 +16,7 @@ const Navbar: FunctionComponent<NavbarProps> = () => {
                 className="h-10 ml-4 cursor-pointer"
               />
             </span>
-            <div className="flex items-center gap-8 text-white ml-4 cursor-pointer">
+            <div className="flex items-center gap-8 text-white ml-7 cursor-pointer">
               <ul>Home</ul>
               <ul>TV shows</ul>
               <ul>Movies</ul>
